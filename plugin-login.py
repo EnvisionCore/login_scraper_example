@@ -6,8 +6,8 @@
 import requests
 from lxml import html
 
-USERNAME = "<adam.conley>"
-PASSWORD = "<AdaKun.Sione.C86>"
+USERNAME = "<>"
+PASSWORD = "<>"
 
 LOGIN_URL = "https://gplvault.com/my-account/"
 URL = "https://gplvault.com/plugins/"
